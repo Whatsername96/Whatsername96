@@ -3,18 +3,9 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whatsername96&show_icons=true&locale=en" alt="whatsername96" /></p>
 
-<p align="left">
-- 🔭 I’m currently working on [Product Manager](https://github.com/Whatsername96/ProductManager)
-</p>
-<p align="left">
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, Typescript, Angular JS, Vue JS, Nuxt JS, React JS, Next JS, React Native, Node JS, C#, **
-</p>
-<p align="left">
-- 👨‍💻 All of my projects are available at [https://github.com/Whatsername96](https://github.com/Whatsername96)
-</p>
-<p align="left">
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Whatsername96)
 - 💬 Ask me about **Vue JS**
-</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whatsername96&show_icons=true&locale=en&layout=compact" alt="whatsername96" /></p>
 
