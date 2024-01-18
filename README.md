@@ -15,9 +15,6 @@
 <p align="left">
 - 💬 Ask me about **Vue JS**
 </p>
-<p align="left">
-- 📫 How to reach me **brunafernandes035@gmail.com**
-</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whatsername96&show_icons=true&locale=en&layout=compact" alt="whatsername96" /></p>
 
